@@ -48,7 +48,7 @@ class Window_dodaj extends JFrame {
 		panel.add(adres1);
 		panel.add(adres);
 		// Wykroczenie
-		Wykroczenie1 = new JLabel("Telefon: ");
+		Wykroczenie1 = new JLabel("Wykroczenie: ");
 		Wykroczenie= new JTextField(10);
 		panel.add(Wykroczenie1);
 		panel.add(Wykroczenie);
