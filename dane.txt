@@ -1,0 +1,45 @@
+Robert, Adamski, 03.08.1998, Bukowska,61073134319, Włamanie
+ Marek, Adamski, 09.01.1990, Polna,61071065796, Prowadzenie pod wpływem alkoholu
+Natan, Baran, 28.12.1984, Waryńskiego,86081363195, Spowodowanie wypadku
+ Eugeniusz, Baranowski,21.06.1989, Architektów,6232223248, Pobicie
+ Wojciech, Berk, 12.11.1989, Marszałkowska,50013037153, Kradzież
+Fabian, Borkowski, 29.01.1997, Marcelińska,65062922233, Nielegalne graffiti
+ Olaf, Brzeziński, 25.05.1996, Studencka,33110321171, Kłusownictwo
+ Florian, Czerwiński, 22.11.1986, Narutowicza,64100424645, Przekroczenie dozwolonej prędkości
+ Jerzy, Dąbrowski, 30.12.2001, Belwederska,71052661547, Wandalizm
+ Natan, Duda, 02.06.1986, Konstytucji,92101223444, Nielegalne graffiti
+ Florian, Jankowski, 01.10.1993, Niepodległości,86060258717, Przejechanie na czerwonym świetle
+ Józef, Jasiński, 19.04.1992, Staszica,64011883296, Uszkodzenie mienia
+ Rafał, Jaworski, 07.03.1985, Lipowa,11111111111, Włamanie
+ Emil, Kalinowski, 27.04.1987, Klonowa,95082247845, Fałszowanie dokumentów
+ Bogumił, Kaźmierczak, 17.08.1995, Programistyczna,68070836732, Jazda bez ważnego biletu
+ Dominik, Kozłowski, 23.04.1980, Kaczorowskiego,83110654589, Kradzież
+ Ludwik, Krajewski, 29.10.2000, Grochowska,61012252193, Nielegalne graffiti
+ Ernest, Krajewski, 29.12.1984, Kościelna,89041586355, Kłusownictwo
+ Borys, Krawczyk, 27.10.1995, Robocza,71091954796, Pobicie
+ Fryderyk, Krupa, 17.12.1992, Niedziałkowskiego,50081049812, Przekroczenie dozwolonej prędkości
+ Kornel, Krupa, 26.01.1981, Pawlikowskiego,78020548433, Zaśmiecanie miejsc publicznych
+ Dominik, Kwiatek, 09.06.1992, Solidarności,58012449948, Włamanie
+ Jakub, Kwiatkowski, 20.01.1989, Parkowa,87121728213, Prowadzenie pod wpływem alkoholu
+ Aleksander, Lewandowski, 20.07.1989, Sportowa,65042626395, Przejechanie na czerwonym świetle
+ Igor, Makowski, 09.02.1983, Krakowska,50112328347, Jazda bez ważnego biletu
+ Michał, Makowski, 04.07.2000, Lubeckiego,83052792387, Cyberstalking
+ Fryderyk, Makowski, 05.02.1999, Rokietnicka,72110385957, Jazda bez ważnego biletu
+ Denis, Michalak, 26.07.1989, Żeromskiego,98122996457, Fałszowanie dokumentów
+ Kornel, Nowak, 14.09.2001, Promienista,76041411475, Wandalizm
+ Artur, Nowak, 03.12.1982, Warszawska,60081973664, Spowodowanie wypadku
+ Antoni, Sikora, 29.08.1999, Międzynarodowa,52040882197, Uszkodzenie mienia
+ Bartosz, Sikora, 01.04.1991, Przemysłowa,90101931327, Zaśmiecanie miejsc publicznych
+Alek, Stępień, 09.05.1986, 3 Maja,72042368853, Zaśmiecanie miejsc publicznych
+ Adam, Stępień,	01.02.1999, Krakowska, 211653722, Pobicie
+ Kazimierz, Szczepański, 19.05.1984, Lubelska,62120195637, Przekroczenie dozwolonej prędkości
+  Anatol, Szewczyk, 28.10.1996, Laserowa,66052711569, Fałszowanie dokumentów
+Marcin, Szymański, 16.02.1988, Dąbrowskiego,66010214893, Kłusownictwo
+Daniel, Szymański, 21.03.1990, Nowa,49032761343, Włamanie
+Jakub, Tomaszewski, 16.10.1984, Śląska,73041526233, Przejechanie na czerwonym świetle
+ Leonardo, Urbański, 03.11.1993, Olimpijska,95010635362, Uszkodzenie mienia
+ Krzysztof, Walczak, 08.07.1987, Szpitalna,62013115445, Wandalizm
+ Konstanty, Walczak, 29.10.1992, Wawrzyniaka,65082629736, Prowadzenie pod wpływem alkoholu
+ Radosław, Witkowski, 20.03.1995, Elektroniczna,6260315355, Spowodowanie wypadku
+ Franciszek, Zalewski, 25.02.1980, Morawskiego,68020929284, KradzieżMarysia,Igla,11.01.2003,ul.Szaserow,11111111111,Spozywanie nielegalnych substancji,
+,,,,,,
